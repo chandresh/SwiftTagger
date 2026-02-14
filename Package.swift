@@ -13,7 +13,7 @@ let package = Package(
     dependencies: [
         .package(
             name: "SwiftTaggerMP4",
-            url: "https://github.com/NCrusher74/SwiftTaggerMP4",
+            url: "https://github.com/chandresh/SwiftTaggerMP4",
             from: "1.7.1"),
         .package(
             name: "SwiftTaggerID3",
